@@ -1,0 +1,5 @@
+artifacts/
+__pycache__/
+*.whl
+*.log
+*.tar.gz
